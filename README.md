@@ -14,3 +14,9 @@ pip install matplotlib
 
 pip install sidrapy 
 
+
+![foto1](https://user-images.githubusercontent.com/79712782/177325539-d7ef101a-fe53-4fde-871b-a4b825a13bc2.png)
+
+
+
+
